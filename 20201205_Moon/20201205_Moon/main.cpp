@@ -84,7 +84,7 @@ int main()
 
 	int iNumber = 30;	//선언을 했다  //초기화를 했다 //정의를했다
 	iNumber = 60;
-	
+
 	//INT64_MAX
 	__int64	iNumber64 = 32389075892375897i64;
 	//INT64_MAX
